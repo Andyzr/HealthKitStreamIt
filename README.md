@@ -34,8 +34,8 @@ A Streamlit application that visualizes Apple HealthKit exported data, providing
 
 1. Clone this repository:
 ```bash
-git clone [your-repository-url]
-cd healthkit-dashboard
+git clone https://github.com/Andyzr/HealthKitStreamIt.git
+cd HealthKitStreamIt
 ```
 
 2. Create and activate a virtual environment (optional but recommended):
