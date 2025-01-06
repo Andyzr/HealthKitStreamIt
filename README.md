@@ -2,6 +2,8 @@
 
 A Streamlit application that visualizes Apple HealthKit exported data, providing interactive analysis and insights into your health metrics.
 
+[Demo](https://healthkitstreamit-andyzr.streamlit.app/)
+
 ## Features
 
 - Support for multiple health metrics categories:
